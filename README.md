@@ -18,4 +18,4 @@ Checkers is an application that allows playing checkers for two players. The pro
 - Two Players 
 ![TwoPlayers](https://github.com/maciej-bartoszewski/Checkers/blob/main/Screenshots/s1.png)
 - Online
-![Online](https://github.com/maciej-bartoszewski/Checkers/blob/main/Screenshots/ss2.png)
+![Online](https://github.com/maciej-bartoszewski/Checkers/blob/main/Screenshots/s2.png)
